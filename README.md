@@ -1,8 +1,15 @@
-# React + Vite
+🔮 Google Gemini AI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A powerful and responsive clone of Google’s Gemini AI, built to simulate multi-modal AI interactions including natural language understanding and contextual conversation.
 
-Currently, two official plugins are available:
+⚙️ Technologies Used
+💻 Frontend
+ - React.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ - Tailwind CSS
+
+ - React Router
+
+ - Axios
+
+
